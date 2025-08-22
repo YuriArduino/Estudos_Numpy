@@ -1,2 +1,2 @@
-# Estudos_Numpy
-How to use the library
+# numpy
+Curso de Numpy na Alura
